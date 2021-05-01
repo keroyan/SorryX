@@ -5,10 +5,12 @@ I'm a 14 year old developer and have been one for almost 3-5 years, I started at
   - HTML
   - CSS 
   - PHP (Laravel)
+  - Javascript
 - Game Development
   - C# (Unity)
 - Software Development
   - C#
+  - C++
 - Editing Images & Videos
   - Photoshop 
   - Adobe Premiere Pro
