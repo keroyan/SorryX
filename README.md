@@ -1,5 +1,4 @@
-### Hello, I'm "sorry" 🍸
-
-I'm a programmer and have been for almost three years! I know a normal amount [c#, php, laravel, html, css, node.js] currently learning [c++, python]
-.
+## Hello, I'm "sorry" 🍸
+I'm a developer and have been one for almost 3-5 years!
+----------------------------------------------------------------
 ![SorryX Github Stats](https://github-readme-stats.vercel.app/api?username=sorryX&show_icons=true&theme=tokyonight)
