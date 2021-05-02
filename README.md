@@ -16,7 +16,7 @@ I'm a 14 year old developer and have been one for almost 3-4 years, I started at
   - C#
   - C++
 - Editing Images & Videos
-  - Photoshop 
+  - Adobe Photoshop 
   - Adobe Premiere Pro
   - Vegas Pro
 
