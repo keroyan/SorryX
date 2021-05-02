@@ -9,7 +9,8 @@ I'm a 14 year old developer and have been one for almost 3-5 years, I started at
   - Javascript
     - Node.js 
 - Game Development
-  - C# (Unity)
+  - C#
+    - Unity
 - Software Development
   - C#
   - C++
