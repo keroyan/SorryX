@@ -1,7 +1,7 @@
 <div align="center">
  <h2>Hello, I'm "sorry" 🍸</h2>
 
- <p>Computers is life!</p>
+ <bold>Computers is life!</bold>
 
  <h2>Expierences</h2>
  
