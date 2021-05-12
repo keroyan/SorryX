@@ -1,5 +1,5 @@
 <div align="center">
- <h2>Hello, I'm "sorry" 🍸</h2>
+ <h2>I'm "sorry" 🍸</h2>
 
  <p>Computers is life!</p>
 
