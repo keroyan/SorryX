@@ -1,8 +1,7 @@
 <div align="center">
  <h2>Hello, I'm "sorry" 🍸</h2>
 
- <p>I'm a 14 year old developer and have been one for almost 3-4 years, I started at a very young age but I was doing simple stuff perhaps nothing advanced!
- </p>
+ <p>Computers is life!</p>
 
  <h2>Expierences</h2>
  
