@@ -1,5 +1,7 @@
 <h2 align="center">Hello, I'm "sorry" 🍸</h2>
-I'm a 14 year old developer and have been one for almost 3-4 years, I started at a very young age but I was doing simple stuff perhaps nothing advanced!
+
+<p align="center">I'm a 14 year old developer and have been one for almost 3-4 years, I started at a very young age but I was doing simple stuff perhaps nothing advanced!
+</p>
 
 <h2 align="center">Expierences</h2>
 
