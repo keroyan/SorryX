@@ -16,6 +16,7 @@
  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+ 
  -------------------------------------------------------------------------------------------------
  <img src="https://github-readme-stats.vercel.app/api?username=sorryx&show_icons=true&theme=radical">
 </div>
