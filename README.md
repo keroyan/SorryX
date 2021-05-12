@@ -3,7 +3,7 @@
 
  <p>I'm a 14 year old developer and have been one for almost 3-4 years, I started at a very young age but I was doing simple stuff perhaps nothing advanced!
  </p>
-
+-------------------------------------------------------------------------------------------------
  <h2>Expierences</h2>
  
  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -16,5 +16,8 @@
  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+ 
+ -------------------------------------------------------------------------------------------------
+ <h2>Stats</h2>
  <img src="https://github-readme-stats.vercel.app/api?username=sorryx&show_icons=true&theme=radical">
 </div>
