@@ -1,11 +1,11 @@
-<h2 align="center">Hello, I'm "sorry" 🍸</h2>
-
-<p align="center">I'm a 14 year old developer and have been one for almost 3-4 years, I started at a very young age but I was doing simple stuff perhaps nothing advanced!
-</p>
-
-<h2 align="center">Expierences</h2>
-
 <div align="center">
+ <h2>Hello, I'm "sorry" 🍸</h2>
+
+ <p>I'm a 14 year old developer and have been one for almost 3-4 years, I started at a very young age but I was doing simple stuff perhaps nothing advanced!
+ </p>
+
+ <h2>Expierences</h2>
+ 
  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
