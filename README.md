@@ -18,6 +18,5 @@
  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
  
  -------------------------------------------------------------------------------------------------
- <h2>Stats</h2>
  <img src="https://github-readme-stats.vercel.app/api?username=sorryx&show_icons=true&theme=radical">
 </div>
