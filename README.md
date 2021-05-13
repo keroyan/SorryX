@@ -1,7 +1,7 @@
 <div align="center">
  <h2>I'm sorry 🍸</h2>
 
- <p>Computers is life!</p>
+ <p>I'm a professional assembly language programmer seens 2012</p>
 
  <h2>Expierences</h2>
  
