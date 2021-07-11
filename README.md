@@ -1,15 +1,9 @@
-<style>
-.test {
- color: red;
- }
-</style>
-
 <div align="center">
  <h2>I'm sorry 🍸</h2>
 
  <p>I'm a professional assembly language & brainfuck developer seens 2012</p>
 
- <h2 class="test">Expierences</h2>
+ <h2>Expierences</h2>
  
  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
