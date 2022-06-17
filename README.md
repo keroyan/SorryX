@@ -1,7 +1,7 @@
 <div align="center">
  <h2>I'm s0rry 🍸</h2>
 
- <p>I am a unprofessional developer</p>
+ <p>dev</p>
 
  <h2>Expierences</h2>
  
