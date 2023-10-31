@@ -1,7 +1,5 @@
 <div align="center">
- <h2>I'm s0rry 🍸</h2>
-
- <p>16 year old developer, creating helpful tools for others as that is my passion</p>
+ <h2>I'm Kero Yan 🍸</h2>
 
  <h2>Expierences</h2>
  
